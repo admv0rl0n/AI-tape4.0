@@ -1,11 +1,5 @@
-Updated NOTE. 
---------------------------------------------------------------------------------
-SO IN TESTING, THE 4 BRANCH STOOD UP THE AI - BUT PASSED VERY LITTLE CONTINUITY. While I could try and panel bash - for now I leave as is - 
-I suggest use 3.0REV62 for now. That at least partially works.
----------------------------------------------------------------------------------
-
-
-
+TAPE 4 is a very barebones variant, built for small size and speed, but maybe lighter usage. 
+--------------------------------------------------------------------------------------------
 
 what if I am very wrong, and the 1x series is actually simply better. And I've just walked down the long wrong roads..Honest answer:
 It is possible you are partly right. It is also possible you are over-correcting.
