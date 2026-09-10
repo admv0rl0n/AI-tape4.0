@@ -1,6 +1,8 @@
 TAPE 4 is a very barebones variant, built for small size and speed, but maybe lighter usage. 
 --------------------------------------------------------------------------------------------
 
+https://www.youtube.com/watch?v=fek4CULLnbE
+
 what if I am very wrong, and the 1x series is actually simply better. And I've just walked down the long wrong roads..Honest answer:
 It is possible you are partly right. It is also possible you are over-correcting.
 Where 1.x was genuinely stronger
