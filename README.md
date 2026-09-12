@@ -1,4 +1,4 @@
-AI_Tape_4.0_Hardened_Agency.md is current latest.
+4.1 is latest..
 
 --------------------------------------------------------------------------------------------
 TAPE 4 is a very barebones variant, built for small size and speed, but maybe lighter usage. 
