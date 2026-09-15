@@ -1,4 +1,4 @@
-4.1 is latest..
+4.1.2 is latest..
 
 --------------------------------------------------------------------------------------------
 TAPE 4 is a very barebones variant, built for small size and speed, but maybe lighter usage. 
