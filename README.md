@@ -1,7 +1,22 @@
 4.1.4 is latest..
 
+Suggested usage - 
+Min AI is 14B >>. Lesser AIs can't really use it.
+27B >> seems best usage. 
+
+Pass 4.1.4 to your AI. Do this as a file, or paste the txt/md to the AI. 
+It should load up the protocol (thus understanding TAPE).
+Now if you are doing a new project, crack on. Once you want to hand off, ask your AI to make the TAPE handover. 
+If you are deep in project, once in a while ask your AI to make a tape handover. 
+You can use this if your context window closes in, or if you want to pass things to another AI.
+
+These files can be copied from screen to notepad or pasted to other AI, or stored as 'backup' of the AI 'thinking/state'. Its not a data backup <<< NOTE. 
+If you have files, data, vectorDBs - you need to ensure you back these up in your own way. You can pass these back to a stood up AI and it will quickly have the same understanding, or close to it with TAPE + Your data.
+
 --------------------------------------------------------------------------------------------
-TAPE 4 is a very barebones variant, built for small size and speed, but maybe lighter usage. 
+TAPE 4 is a re-engineered version taking ... what we can from 1,2,3 and keeping size under 
+what 3.x became. If you need a very rich hand off, sometimes the 3.0 Rev 6.2 may be richer
+but its a lot fatter/heavier. YMMV.
 --------------------------------------------------------------------------------------------
 
 https://www.youtube.com/watch?v=fek4CULLnbE
