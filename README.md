@@ -14,9 +14,11 @@ These files can be copied from screen to notepad or pasted to other AI, or store
 If you have files, data, vectorDBs - you need to ensure you back these up in your own way. You can pass these back to a stood up AI and it will quickly have the same understanding, or close to it with TAPE + Your data.
 
 --------------------------------------------------------------------------------------------
+
 TAPE 4 is a re-engineered version taking ... what we can from 1,2,3 and keeping size under 
 what 3.x became. If you need a very rich hand off, sometimes the 3.0 Rev 6.2 may be richer
 but its a lot fatter/heavier. YMMV.
+
 --------------------------------------------------------------------------------------------
 
 https://www.youtube.com/watch?v=fek4CULLnbE
