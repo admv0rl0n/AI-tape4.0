@@ -1,10 +1,10 @@
-4.1.4 is latest..
+4.1.5 is latest..
 
 Suggested usage - 
 Min AI is 14B >>. Lesser AIs can't really use it.
 27B >> seems best usage. 
 
-Pass 4.1.4 to your AI. Do this as a file, or paste the txt/md to the AI. 
+Pass 4.1.5 to your AI. Do this as a file, or paste the txt/md to the AI. 
 It should load up the protocol (thus understanding TAPE).
 Now if you are doing a new project, crack on. Once you want to hand off, ask your AI to make the TAPE handover. 
 If you are deep in project, once in a while ask your AI to make a tape handover. 
