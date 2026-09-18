@@ -1,4 +1,4 @@
-4.1.5 is latest..
+4.1.5 hardened agency.md is latest..
 
 Suggested usage - 
 Min AI is 14B >>. Lesser AIs can't really use it.
